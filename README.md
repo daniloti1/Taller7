@@ -1,3 +1,3 @@
 # Taller7
-Danilo Torres
+Danilo Torres,
 Christian Bueno

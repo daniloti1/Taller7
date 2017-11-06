@@ -1,0 +1,32 @@
+.jumbotron {
+  background-image: url(../img/fondo.jpg);
+  background-size: 80%;
+  background-repeat: no-repeat;
+  background-position: center top;
+}
+
+ul.horizontal-slide {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    white-space: nowrap;
+    overflow-x: auto;    
+}
+
+ul.horizontal-slide li[class*="col"] {
+    display: inline-block;
+    float: none;
+}
+
+ul.horizontal-slide li[class*="col"]:first-child {
+    margin-left: 0;
+}
+
+.text-center, div[id="slider"] {
+	padding: 2%;
+}
+
+.navbar, nav {
+	padding: 0%;
+	margin-bottom: 0% !important;
+}
